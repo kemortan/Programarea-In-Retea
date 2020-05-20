@@ -1,0 +1,11 @@
+D:\Universitate\Cursul III\Semestrul II\Programarea in retea\Programarea_in_Retea-master\Lab2\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.deps.json
+D:\Universitate\Cursul III\Semestrul II\Programarea in retea\Programarea_in_Retea-master\Lab2\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.runtimeconfig.json
+D:\Universitate\Cursul III\Semestrul II\Programarea in retea\Programarea_in_Retea-master\Lab2\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.runtimeconfig.dev.json
+D:\Universitate\Cursul III\Semestrul II\Programarea in retea\Programarea_in_Retea-master\Lab2\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.dll
+D:\Universitate\Cursul III\Semestrul II\Programarea in retea\Programarea_in_Retea-master\Lab2\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.pdb
+D:\Universitate\Cursul III\Semestrul II\Programarea in retea\Programarea_in_Retea-master\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.csprojAssemblyReference.cache
+D:\Universitate\Cursul III\Semestrul II\Programarea in retea\Programarea_in_Retea-master\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.csproj.CoreCompileInputs.cache
+D:\Universitate\Cursul III\Semestrul II\Programarea in retea\Programarea_in_Retea-master\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.AssemblyInfoInputs.cache
+D:\Universitate\Cursul III\Semestrul II\Programarea in retea\Programarea_in_Retea-master\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.AssemblyInfo.cs
+D:\Universitate\Cursul III\Semestrul II\Programarea in retea\Programarea_in_Retea-master\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.dll
+D:\Universitate\Cursul III\Semestrul II\Programarea in retea\Programarea_in_Retea-master\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.pdb
