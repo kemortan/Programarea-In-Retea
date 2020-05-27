@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Universitate\\Cursul III\\Semestrul II\\Programarea in retea\\Laboratoare\\Laborator 3\\Laborator 3\\Laborator 3\\Laborator 3.csproj",
+      "projectUniqueName": "D:\\Universitate\\Cursul III\\Semestrul II\\Programarea in retea\\Laboratoare\\Laborator 3\\Laborator 3\\Laborator 3.csproj",
       "projectName": "Laborator 3",
-      "projectPath": "D:\\Universitate\\Cursul III\\Semestrul II\\Programarea in retea\\Laboratoare\\Laborator 3\\Laborator 3\\Laborator 3\\Laborator 3.csproj",
+      "projectPath": "D:\\Universitate\\Cursul III\\Semestrul II\\Programarea in retea\\Laboratoare\\Laborator 3\\Laborator 3\\Laborator 3.csproj",
       "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
-      "outputPath": "D:\\Universitate\\Cursul III\\Semestrul II\\Programarea in retea\\Laboratoare\\Laborator 3\\Laborator 3\\Laborator 3\\obj\\",
+      "outputPath": "D:\\Universitate\\Cursul III\\Semestrul II\\Programarea in retea\\Laboratoare\\Laborator 3\\Laborator 3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
